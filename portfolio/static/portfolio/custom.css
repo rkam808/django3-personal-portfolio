@@ -1,0 +1,51 @@
+.navbar-nav .nav-link {
+  color: rgba(0, 0, 0, 1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #16c79a !important;
+}
+
+.navbar {
+  background-color: #e3f2fd;
+}
+
+body {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  background-color: #f6f5f5;
+}
+
+#blogtitle {
+  font-size: 6rem;
+}
+
+@media (min-width: 992px) {
+  #hometext {
+    font-size: 4rem;
+  }
+
+  #blogdetailtitle {
+    font-size: 5rem;
+  }
+}
+
+h1 {
+  color: #19456b;
+}
+
+h2 {
+  color: #1687a7;
+}
+
+h3 {
+  color: #1687a7;
+}
+
+h5 {
+  color: #1687a7;
+}
+
+p {
+  color: #1687a7;
+}
